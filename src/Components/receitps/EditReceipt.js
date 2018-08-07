@@ -79,7 +79,7 @@ class EditRecipt extends Component {
 
                   <input
                     type="submit"
-                    value="Add Contact"
+                    value="Update Receipt"
                     className="btn btn-warning btn-block"
                   />
                 </form>
